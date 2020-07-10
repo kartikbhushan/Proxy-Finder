@@ -10,4 +10,4 @@ Scans through Proxy servers and returns the best Proxy server found for the give
 
 ## Example Output for - https://www.youtube.com/
 
-<img src="./proxy.PNG" alt="Output" width="500">
+<img src="./proxy.png" alt="Output" width="500">
