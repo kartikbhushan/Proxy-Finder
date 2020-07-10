@@ -7,3 +7,7 @@ Scans through Proxy servers and returns the best Proxy server found for the give
 - requests
 
 - bs4
+
+## Example Output for - https://www.youtube.com/
+
+<img src="./proxy.PNG" alt="Output" width="500">
