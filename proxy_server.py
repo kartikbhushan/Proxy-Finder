@@ -26,6 +26,6 @@ def proxy_request(request_type, url, **kwargs):
     return response
 
 
-r = proxy_request('get', "https://www.pornhub.com/")
+r = proxy_request('get', "https://www.youtube.com/")
 if r.text != '':
     print("[*][*][*][*][*] Proxy found " + str(proxy))
